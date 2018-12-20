@@ -83,7 +83,9 @@
   pdftitle={},
   pdfauthor={},
   pdfsubject={},
-  pdfkeywords={}
+  pdfkeywords={},
+  linkcolor=blue,
+  colorlinks=true,
 }
 
 
